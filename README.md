@@ -1,3 +1,3 @@
-# my_health
+# My Fitness
 
 A new Flutter project.
