@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "571545800069",
+    "project_id": "i-shal-maxi",
+    "storage_bucket": "i-shal-maxi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571545800069:android:97037020dc67387b2ec8ec",
+        "android_client_info": {
+          "package_name": "com.example.my_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571545800069-fcain6prghopl1m9ct4mmlj0g30vf4t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-QxxIjWcnS2zyKHNcjXxCO8dyBYinB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571545800069-fcain6prghopl1m9ct4mmlj0g30vf4t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571545800069-fth1tfi2hfh6n46g0atj3pbmonb9g5l8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ishaalfasionstore.admin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571545800069:android:aca292137564023f2ec8ec",
+        "android_client_info": {
+          "package_name": "com.ishaalfasionstore.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571545800069-fcain6prghopl1m9ct4mmlj0g30vf4t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-QxxIjWcnS2zyKHNcjXxCO8dyBYinB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571545800069-fcain6prghopl1m9ct4mmlj0g30vf4t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571545800069-fth1tfi2hfh6n46g0atj3pbmonb9g5l8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ishaalfasionstore.admin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
